@@ -1,2 +1,2 @@
 # Password-Manager-
-Gui that stores passwords you create in a file
+Gui that generates and stores passwords in a file
